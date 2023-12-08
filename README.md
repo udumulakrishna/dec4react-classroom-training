@@ -3,7 +3,22 @@
 
 C:\UK\React
 ___________
-C:\UK\React
+
+Localhost: http://localhost:3000/products
+
+Docs: 
+	https://github.com/joydip-git/verizon-reactjs-4thdec2023
+	https://react.dev/learn
+	https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+	https://www.typescriptlang.org/
+	https://docs.npmjs.com/
+	https://www.npmjs.com/package/typescript
+	https://babeljs.io/
+	https://webpack.js.org/concepts/loaders/
+	https://www.freecodecamp.org/
+	https://reactrouter.com/en/main
+	https://redux.js.org/
+
 
 
 Apps: Node, VS Code, Notepad++
